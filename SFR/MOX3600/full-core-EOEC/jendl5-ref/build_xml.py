@@ -20,7 +20,7 @@ inactive = 50
 particles = 100000
 generations = 10
 
-os.environ['OPENMC_CROSS_SECTIONS'] = "/mnt/e/Codes/Nuclear_Data/OpenMC/jendl-5.0-hdf5/cross_sections.xml"
+os.environ['OPENMC_CROSS_SECTIONS'] = "/mnt/e/Codes/NuclearData/OpenMC/jendl-5.0-hdf5/cross_sections.xml"
 
 ###############################################################################
 #                 Exporting to OpenMC materials.xml File
