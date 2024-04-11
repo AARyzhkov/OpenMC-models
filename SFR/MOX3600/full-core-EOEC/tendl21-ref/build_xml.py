@@ -548,7 +548,7 @@ settings.generations_per_batch = generations
 settings.particles = particles
 settings.temperature = {'method': 'interpolation'}
 
-bounds = [0, -350, 0, 350, 350, 200]
+bounds = [0, -350, 0, 350, 350, 300]
 uniform_dist = openmc.stats.Box(bounds[:3], bounds[3:], only_fissionable=True)
 settings.source = openmc.source.Source(space=uniform_dist)
 settings.ptables = True

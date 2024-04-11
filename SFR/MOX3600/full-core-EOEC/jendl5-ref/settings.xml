@@ -7,7 +7,7 @@
   <generations_per_batch>10</generations_per_batch>
   <source strength="1.0">
     <space type="fission">
-      <parameters>0 -350 0 350 350 200</parameters>
+      <parameters>0 -350 0 350 350 300</parameters>
     </space>
   </source>
   <ptables>true</ptables>
