@@ -641,6 +641,6 @@ plot_yz.colors = {
 
 plot = openmc.Plots([plot_xy_central, plot_xy_upper, plot_yz])
 plot.export_to_xml()
-openmc.plot_geometry()
+#openmc.plot_geometry()
 
 openmc.run()
