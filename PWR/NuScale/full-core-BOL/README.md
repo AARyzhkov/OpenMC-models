@@ -1,6 +1,6 @@
 # NuScale-like Core
 
-This folder includes the full core models of NuScale-like core with the BOL fuel composition. The model is completely based upon the public domain:
+This folder includes the full core models of a NuScale-like core with the BOL fuel composition. The model is completely based upon the public domain:
 
 > Fridman, E., Bilodid, Y., Valtavirta, V., 2023. Definition of the neutronics benchmark of the NuScale-like core. Nuclear Engineering and Technology 55, 3639–3647. https://doi.org/10.1016/j.net.2023.06.029
 
