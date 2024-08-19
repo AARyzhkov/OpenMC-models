@@ -1,3 +1,14 @@
+##############################################################################
+#                          MET1000
+##############################################################################
+# If you use the models in your work, please cite our paper for which
+# we developed the model:
+# Ryzhkov, A.A., Tikhomirov, G.V., Ternovykh, M.Yu.,Gerasimov, A.S., 2023. 
+# Evaluation of technological uncertainties using the sensitivity to nuclear
+# data. Atomic Energy 135, 162-165. 
+# https://doi.org/10.1007/s10512-024-01103-w
+##############################################################################
+
 import openmc
 
 ###############################################################################
